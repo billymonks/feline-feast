@@ -198,7 +198,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4c4664618684b490db0feb69609d07f6, type: 2}
   m_IsPrefabParent: 0
---- !u!1001 &895128185
+--- !u!1001 &983587844
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -236,6 +236,51 @@ Prefab:
     - target: {fileID: 4660333994774442, guid: 9d156ed93f78543bd9415e0fedd0c9c1, type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 144570895560619134, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: 2.48956
+      objectReference: {fileID: 0}
+    - target: {fileID: 144570895560619134, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: -0.039138235
+      objectReference: {fileID: 0}
+    - target: {fileID: 144570895560619134, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0.06972005
+      objectReference: {fileID: 0}
+    - target: {fileID: 144478446857378080, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: 1.2857864
+      objectReference: {fileID: 0}
+    - target: {fileID: 144478446857378080, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: -0.2154975
+      objectReference: {fileID: 0}
+    - target: {fileID: 144478446857378080, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0.11983936
+      objectReference: {fileID: 0}
+    - target: {fileID: 144176749558167854, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.3084253
+      objectReference: {fileID: 0}
+    - target: {fileID: 144176749558167854, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.027442418
+      objectReference: {fileID: 0}
+    - target: {fileID: 144176749558167854, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0.036291532
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9d156ed93f78543bd9415e0fedd0c9c1, type: 2}

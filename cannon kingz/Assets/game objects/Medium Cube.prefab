@@ -121,5 +121,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebdf7b411030c44df86bc292d7fa176c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  durability: 8
+  durability: 24
   score: 40

@@ -3648,13 +3648,18 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 144176749558167854, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
         type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.027442537
+      objectReference: {fileID: 0}
+    - target: {fileID: 144176749558167854, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
+        type: 2}
       propertyPath: m_ConnectedAnchor.z
       value: 0.0362913
       objectReference: {fileID: 0}
     - target: {fileID: 144527809890976378, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
         type: 2}
-      propertyPath: m_ConnectedAnchor.x
-      value: 2.3351333
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.043278184
       objectReference: {fileID: 0}
     - target: {fileID: 144478446857378080, guid: 9d156ed93f78543bd9415e0fedd0c9c1,
         type: 2}
